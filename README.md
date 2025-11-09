@@ -1,5 +1,5 @@
 # Intelligent Chatbot with Ollama and LangChain
-An intelligent chatbot built with Ollama3 and LangChain.
+An intelligent chatbot built with Ollama3 and LangChain. **This bot is designed to provide incorrect responses.**
 
 ## 🛠️ Technologies
 
