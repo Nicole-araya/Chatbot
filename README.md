@@ -53,6 +53,7 @@ With the virtual environment active, install the necessary libraries.
 
 ```bash
 pip install langchain
+pip install -qU langchain-ollama
 ```
 ### Step 4: Pull the Llama 3 Model
 
