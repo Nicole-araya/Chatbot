@@ -63,5 +63,5 @@ ollama pull llama3
 ### Step 5: Run the Program
 
 ```bash
-python chatbot.py
+python SImpleChatBot.py
 ```
